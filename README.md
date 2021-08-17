@@ -4,10 +4,10 @@ In this project I have Swing for frontend and Oracle Database for backend.
 
 ## Functional Requirement
 
-1).Registration
-2).Login
-3).Admin Login
-4).Edit
+- 1).Registration
+- 2).Login
+- 3).Admin Login
+- 4).Edit
 
 
 ### Screenshot
