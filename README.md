@@ -8,6 +8,10 @@ In this project I have Swing for frontend and Oracle Database for backend.
 - 2).Login
 - 3).Admin Login
 - 4).Edit
+- 5).Assign Salary
+- 6).Check Salary
+- 7).Update the names of Users
+- 8).Delete the User
 
 
 ### Screenshot
